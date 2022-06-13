@@ -1,4 +1,4 @@
 # Barbearia-Alura
 
 - Estilização em CSS
-- Utilização imagens
+- Utilização de imagens
